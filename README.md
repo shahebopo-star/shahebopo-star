@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00979D&height=220&section=header&text=Abdus%20Satter%20Shaheb&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20%26%20Electronic%20Engineering%20Student%20%7C%20IoT%20%26%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00979D&height=220&section=header&text=Abdus%20Satter%20Shaheb&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20and%20Electronic%20Engineering%20Student%20%7C%20IoT%20and%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
   
   <a href="https://github.com/shahebopo-star">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+%26+Electronic+Engineering+Student;IoT+%26+Embedded+Systems+Enthusiast;ESP32+%7C+Arduino+%7C+STM32+Developer;Building+Smart+%26+Energy-Efficient+Solutions;Always+Learning+%2C+Always+Building!&font=Fira+Code&center=true&width=750&height=50&color=00ADB5&vCenter=true&size=22&pause=1200"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+and+Electronic+Engineering+Student;IoT+and+Embedded+Systems+Enthusiast;ESP32+%7C+Arduino+%7C+STM32+Developer;Building+Smart+and+Energy-Efficient+Solutions;Always+Learning+,+Always+Building!&font=Fira+Code&center=true&width=750&height=50&color=00ADB5&vCenter=true&size=22&pause=1200"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=shahebopo-star&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
