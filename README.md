@@ -1,18 +1,108 @@
-# 💫 About Me:
-🌱 I'm currently working on: IoT-based automation systems, renewable energy projects, and embedded systems using ESP32 and Arduino.<br><br>🤝 I'm looking to collaborate on: Open-source IoT, automation, renewable energy, and AI-powered engineering projects.<br><br>💡 I'm looking for help with: Advanced embedded systems, PCB design, industrial automation, and research opportunities.<br><br>📚 I'm currently learning: STM32, Raspberry Pi, MATLAB, industrial automation, and AI applications in electrical engineering. <br><br>💬 Ask me about: Arduino, ESP32, IoT, MATLAB, embedded systems, renewable energy, and automation.<br><br>⚡ Fun fact: I enjoy turning engineering ideas into real working prototypes and aim to build technology that solves practical problems.
+# 👨‍💻 Abdus Satter Shaheb
 
+### Electrical & Electronic Engineering Student | IoT & Embedded Systems Enthusiast
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdussatter.shaheb.79) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sha_heb_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahebopo@gmail.com) 
+I am an Electrical and Electronic Engineering (EEE) student at **Daffodil International University** with a strong interest in **IoT, embedded systems, renewable energy, and industrial automation**. I enjoy transforming engineering concepts into practical, real-world solutions using microcontrollers, sensors, and intelligent control systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shahebopo-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shahebopo-star&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahebopo-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to contribute to the development of **smart automation and energy-efficient technologies** that solve real engineering challenges.
 
 ---
-[![](https://komarev.com/ghpvc/?username=shahebopo-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Focus
+
+- 🔹 IoT-based automation systems
+- 🔹 Renewable energy and power electronics projects
+- 🔹 Embedded systems development with ESP32 and Arduino
+- 🔹 Industrial automation and smart monitoring solutions
+
+---
+
+## 🤝 Open to Collaboration
+
+- Open-source IoT projects
+- Automation and control systems
+- Renewable energy applications
+- AI-powered engineering solutions
+- Research and innovation initiatives
+
+---
+
+## 📚 Currently Learning
+
+- STM32 microcontroller programming
+- Raspberry Pi system development
+- MATLAB and Simulink
+- Industrial automation technologies
+- AI applications in electrical engineering
+
+---
+
+## 💻 Technical Skills
+
+### 🔌 Embedded Systems
+ESP32, Arduino, STM32
+
+### 🖥️ Programming
+C, C++, Python, HTML
+
+### 📊 Simulation & Analysis
+MATLAB, Simulink, LTspice, Multisim, Proteus
+
+### ⚡ Engineering Domains
+IoT, Renewable Energy, Automation, Power Electronics
+
+---
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdussatter.shaheb.79)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sha_heb_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdus-satter-shaheb-a95483292)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shahebmax)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahebopo@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=shahebopo-star&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=shahebopo-star&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahebopo-star&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+## 📌 Featured Interests
+
+- Smart Home & Industrial Automation
+- IoT Monitoring Systems
+- Renewable Energy Solutions
+- Embedded AI Applications
+- Power Electronics Projects
+- PCB Design & Prototyping
+
+---
+
+## 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=shahebopo-star&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## ⚡ Quote
+
+> *“Engineering is not just about building circuits; it is about building solutions that make life better.”*
+
+⭐ **Check out my repositories to explore my latest projects in IoT, automation, and renewable energy.**
