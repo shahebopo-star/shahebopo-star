@@ -1,16 +1,11 @@
-Markdown
-
-```
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="EEE Animated Banner"/>
+  <!-- Replace 'banner.gif' with the actual link or relative path to your uploaded GIF -->
+  <img src="banner.gif" alt="Abdus Satter Shaheb Animated Banner" width="100%">
 </p>
 
-<h1 align="center">👨‍💻 Abdus Satter Shaheb</h1>
-<h3 align="center">Electrical & Electronic Engineering Student | IoT & Embedded Systems Enthusiast</h3>
+# 👨‍💻 Abdus Satter Shaheb
 
----
-
-## 🚀 About Me
+### Electrical & Electronic Engineering Student | IoT & Embedded Systems Enthusiast
 
 I am an Electrical and Electronic Engineering (EEE) student at **Daffodil International University** with a strong interest in **IoT, embedded systems, renewable energy, and industrial automation**. I enjoy transforming engineering concepts into practical, real-world solutions using microcontrollers, sensors, and intelligent control systems.
 
@@ -18,12 +13,12 @@ My goal is to contribute to the development of **smart automation and energy-eff
 
 ---
 
-## 🔭 Current Focus
+## 🚀 Current Focus
 
-- IoT-based automation systems
-- Renewable energy and power electronics projects
-- Embedded systems development with ESP32 and Arduino
-- Industrial automation and smart monitoring solutions
+- 🔹 IoT-based automation systems
+- 🔹 Renewable energy and power electronics projects
+- 🔹 Embedded systems development with ESP32 and Arduino
+- 🔹 Industrial automation and smart monitoring solutions
 
 ---
 
@@ -50,16 +45,16 @@ My goal is to contribute to the development of **smart automation and energy-eff
 ## 💻 Technical Skills
 
 ### 🔌 Embedded Systems
-ESP32 • Arduino • STM32
+ESP32, Arduino, STM32
 
 ### 🖥️ Programming
-C • C++ • Python • HTML
+C, C++, Python, HTML
 
 ### 📊 Simulation & Analysis
-MATLAB • Simulink • LTspice • Multisim • Proteus
+MATLAB, Simulink, LTspice, Multisim, Proteus
 
 ### ⚡ Engineering Domains
-IoT • Renewable Energy • Automation • Power Electronics
+IoT, Renewable Energy, Automation, Power Electronics
 
 ---
 
@@ -86,14 +81,11 @@ IoT • Renewable Energy • Automation • Power Electronics
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahebopo-star&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=shahebopo-star&theme=github-dark&hide_border=true" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=shahebopo-star&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahebopo-star&theme=github_dark&hide_border=true&layout=compact" height="160"/>
-</p>
+![](https://streak-stats.demolab.com/?user=shahebopo-star&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahebopo-star&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
@@ -110,17 +102,10 @@ IoT • Renewable Energy • Automation • Power Electronics
 
 ## 📊 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahebopo-star&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+![](https://komarev.com/ghpvc/?username=shahebopo-star&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## ⚡ Quote
 
-> *"Engineering is not just about building circuits; it is about building solutions that make life better."*
-
-⭐ **Check out my repositories to explore my latest projects in IoT, automation, and renewable energy.**
-```
-
->
+> *“Engineering is not just about building circuits; it is about building solutions that make life better.”*
