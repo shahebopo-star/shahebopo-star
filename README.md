@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00979D&height=220&section=header&text=Abdus%20Satter%20Shaheb&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20%26%20Electronic%20Engineering%20Student%20%7C%20IoT%20%26%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0077B5,100:00979D&amp;height=220&amp;section=header&amp;text=Abdus%20Satter%20Shaheb&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Electrical%20%26%20Electronic%20Engineering%20Student%20%7C%20IoT%20%26%20Embedded%20Systems%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/shahebopo-star">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+%26+Electronic+Engineering+Student;IoT+%26+Embedded+Systems+Enthusiast;ESP32+%7C+Arduino+%7C+STM32+Developer;Building+Smart+%26+Energy-Efficient+Solutions;Always+Learning+%2C+Always+Building!&font=Fira+Code&center=true&width=750&height=50&color=00ADB5&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+%26+Electronic+Engineering+Student;IoT+%26+Embedded+Systems+Enthusiast;ESP32+%7C+Arduino+%7C+STM32+Developer;Building+Smart+%26+Energy-Efficient+Solutions;Always+Learning+%2C+Always+Building!&amp;font=Fira+Code&amp;center=true&amp;width=750&amp;height=50&amp;color=00ADB5&amp;vCenter=true&amp;size=22&amp;pause=1200"/>
 </a>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fshahebopo-star%2Fprofile&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=success&amp;label=Profile%20Views&amp;query=%24.count&amp;url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fshahebopo-star%2Fprofile&amp;style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -29,9 +29,9 @@ I am an **Electrical and Electronic Engineering (EEE)** student at **Daffodil In
 <td width="50%" valign="top">
 
 - 🔹 IoT-based automation systems
-- 🔹 Renewable energy & power electronics
-- 🔹 Embedded development with ESP32 & Arduino
-- 🔹 Industrial automation & smart monitoring
+- 🔹 Renewable energy &amp; power electronics
+- 🔹 Embedded development with ESP32 &amp; Arduino
+- 🔹 Industrial automation &amp; smart monitoring
 
 </td>
 <td width="50%" valign="top">
@@ -58,11 +58,11 @@ class Engineer:
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open--Source-IoT%20Projects-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Control%20Systems-blue?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Renewable](https://img.shields.io/badge/Renewable-Energy%20Apps-yellow?style=for-the-badge&logo=leaflet&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Powered%20Engineering-purple?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Research](https://img.shields.io/badge/Research-%26%20Innovation-orange?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open--Source-IoT%20Projects-2ea44f?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Control%20Systems-blue?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white)
+![Renewable](https://img.shields.io/badge/Renewable-Energy%20Apps-yellow?style=for-the-badge&amp;logo=leaflet&amp;logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered%20Engineering-purple?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![Research](https://img.shields.io/badge/Research-%26%20Innovation-orange?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)
 
 </div>
 
@@ -70,7 +70,7 @@ class Engineer:
 
 <div align="center">
 
-| STM32 | Raspberry Pi | MATLAB & Simulink | Industrial Automation | AI in EEE |
+| STM32 | Raspberry Pi | MATLAB &amp; Simulink | Industrial Automation | AI in EEE |
 |:---:|:---:|:---:|:---:|:---:|
 | 🔧 Microcontrollers | 🍓 System Dev | 📐 Simulation | 🏭 Smart Factories | 🤖 Intelligent Control |
 
@@ -83,27 +83,27 @@ class Engineer:
 <div align="center">
 
 ### 🔌 Embedded Systems
-![ESP32](https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323330?style=for-the-badge&amp;logo=espressif&amp;logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&amp;logo=stmicroelectronics&amp;logoColor=white)
 
 ### 🖥️ Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
 
-### 📊 Simulation & Analysis
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-FF6600?style=for-the-badge&logo=analogdevices&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logoColor=white)
+### 📊 Simulation &amp; Analysis
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-FF6600?style=for-the-badge&amp;logo=analogdevices&amp;logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&amp;logoColor=white)
 
 ### ⚡ Engineering Domains
-![IoT](https://img.shields.io/badge/IoT-00C7B7?style=for-the-badge&logo=iota&logoColor=white)
-![Renewable Energy](https://img.shields.io/badge/Renewable-Energy-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge&logo=automattic&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Power-Electronics-673AB7?style=for-the-badge&logo=voltmx&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00C7B7?style=for-the-badge&amp;logo=iota&amp;logoColor=white)
+![Renewable Energy](https://img.shields.io/badge/Renewable-Energy-4CAF50?style=for-the-badge&amp;logo=leaflet&amp;logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge&amp;logo=automattic&amp;logoColor=white)
+![Power Electronics](https://img.shields.io/badge/Power-Electronics-673AB7?style=for-the-badge&amp;logo=voltmx&amp;logoColor=white)
 
 </div>
 
@@ -113,11 +113,11 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahebopo-star&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=shahebopo-star&theme=github-dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahebopo-star&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;show_icons=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=shahebopo-star&amp;theme=github-dark&amp;hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahebopo-star&theme=github_dark&hide_border=true&layout=compact" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahebopo-star&theme=react-dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahebopo-star&amp;theme=github_dark&amp;hide_border=true&amp;layout=compact" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahebopo-star&amp;theme=react-dark&amp;hide_border=true" width="48%"/>
 
 </div>
 
@@ -137,8 +137,8 @@ class Engineer:
 
 <div align="center">
 
-🏠 Smart Home & Industrial Automation &nbsp;•&nbsp; 📡 IoT Monitoring Systems &nbsp;•&nbsp; ☀️ Renewable Energy Solutions
-🧠 Embedded AI Applications &nbsp;•&nbsp; ⚡ Power Electronics Projects &nbsp;•&nbsp; 🖇️ PCB Design & Prototyping
+🏠 Smart Home &amp; Industrial Automation &nbsp;•&nbsp; 📡 IoT Monitoring Systems &nbsp;•&nbsp; ☀️ Renewable Energy Solutions
+🧠 Embedded AI Applications &nbsp;•&nbsp; ⚡ Power Electronics Projects &nbsp;•&nbsp; 🖇️ PCB Design &amp; Prototyping
 
 </div>
 
@@ -146,11 +146,11 @@ class Engineer:
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abdussatter.shaheb.79)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_sha_heb_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdus-satter-shaheb-a95483292)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shahebmax)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahebopo@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white)](https://facebook.com/abdussatter.shaheb.79)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white)](https://instagram.com/_sha_heb_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/abdus-satter-shaheb-a95483292)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white)](https://youtube.com/@shahebmax)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:shahebopo@gmail.com)
 
 </div>
 
@@ -164,6 +164,6 @@ class Engineer:
 
 ⭐ **Check out my repositories to explore my latest projects in IoT, automation, and renewable energy.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:0077B5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00979D,100:0077B5&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
